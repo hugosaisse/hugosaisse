@@ -5,7 +5,10 @@
 
 ---
 
-With over 15 years of rich experience in IT management and software engineering, I've journeyed through multiple domains, gaining significant expertise as I went. I pride myself on being the youngest and longest-lasting CTO of the Brazilian Insurance Supervisor (2014-2019), managing to blend technology and leadership adeptly.
+With over 15 years of rich experience in IT management and software engineering,
+I've journeyed through multiple domains, gaining significant expertise as I went.
+I pride myself on being the youngest and longest-lasting CTO of the Brazilian Insurance Supervisor (2014-2019),
+managing to blend technology and leadership adeptly.
 
 In 2019, I took a leap towards my passion for data science and artificial intelligence, pursuing a Master's degree at Nova IMS. The same year, I co-founded Arteh, a climate-tech startup based in Australia. Our mission is to help businesses track their carbon emissions, simulate emission reduction scenarios, and set science-based emission reduction targets.
 
