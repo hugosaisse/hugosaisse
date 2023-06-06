@@ -1,7 +1,6 @@
-```markdown
-# Hi there, I'm Hugo Mentzingen (a.k.a. Hugo Silva) 👋
+## Hi there, I'm Hugo Mentzingen (a.k.a. Hugo Silva) 👋
 
-## 🌱 I'm a Communications Engineer, Data Scientist, AI Enthusiast, and Startup Co-Founder!
+### 🌱 I'm a Communications Engineer, Data Scientist, AI Enthusiast, and Startup Co-Founder!
 
 ---
 
@@ -49,7 +48,7 @@ Arteh's platform is also undergoing substantial improvements to make it more int
 
 📫 **How to reach me:**
 
-- [LinkedIn]([linkedin_url](https://www.linkedin.com/in/hugo-mentzingen/))
+- [LinkedIn](https://www.linkedin.com/in/hugo-mentzingen/)
 - [Email](mailto:hugosaisse@gmail.com)
 
 ---
@@ -57,7 +56,7 @@ Arteh's platform is also undergoing substantial improvements to make it more int
 🔍 **I'm open to collaborations** involving NLP and Machine Learning applications to the legal sector.
 Feel free to reach out if you have an interesting project or idea!
 
-💬 **Ask me about anything**. I'm always happy to help. Don't hesitate to contact me if you need guidance or advice or want to exchange ideas.
+🙋‍♂️ **Ask me about anything**. I'm always happy to help. Don't hesitate to contact me if you need guidance or advice or want to exchange ideas.
 
 
 <!--
