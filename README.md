@@ -44,6 +44,11 @@ Arteh's platform is also undergoing substantial improvements to make it more int
 - **Data Analysis Tools:** Pandas, Plotly, Dash, Scikit-Learn
 - **Others:** Git, Linux
 
+🔍 **I'm open to collaborations** involving NLP and Machine Learning applications to the legal sector.
+Feel free to reach out if you have an interesting project or idea!
+
+🙋‍♂️ **Ask me about anything**. I'm always happy to help. Don't hesitate to contact me if you need guidance or advice or want to exchange ideas.
+
 ---
 
 📫 **How to reach me:**
@@ -52,11 +57,6 @@ Arteh's platform is also undergoing substantial improvements to make it more int
 - [Email](mailto:hugosaisse@gmail.com)
 
 ---
-
-🔍 **I'm open to collaborations** involving NLP and Machine Learning applications to the legal sector.
-Feel free to reach out if you have an interesting project or idea!
-
-🙋‍♂️ **Ask me about anything**. I'm always happy to help. Don't hesitate to contact me if you need guidance or advice or want to exchange ideas.
 
 
 <!--
