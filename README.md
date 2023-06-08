@@ -1,6 +1,6 @@
 ## Hi there, I'm Hugo Mentzingen (a.k.a. Hugo Silva) 👋
 
-### 🌱 I'm a Communications Engineer, Data Scientist, AI Researcher, and Startup Co-Founder!
+### 🌱 I'm an Engineer, Data Scientist, AI Researcher, and Startup Co-Founder!
 
 ---
 
@@ -34,6 +34,12 @@ part-of-speech (PoS) tagging, and LLMs to summarize court decisions and compute 
 
 Arteh's platform is also undergoing substantial improvements to make it more intuitive and user-friendly.
 
+## 📚 Published Papers
+
+- Silva, H., António, N., Bacao, F. (2022). A Rapid Semi-automated Literature Review on Legal Precedents Retrieval. In: Marreiros, G., Martins, B., Paiva, A., Ribeiro, B., Sardinha, A. (eds) Progress in Artificial Intelligence. EPIA 2022. Lecture Notes in Computer Science(), vol 13566. Springer, Cham. [DOI](https://doi.org/10.1007/978-3-031-16474-3_5)
+
+- Mentzingen, H., Antonio, N. & Lobo, V. (2023). Joining metadata and textual features to advise administrative courts decisions: a cascading classifier approach. Artif Intell Law. [DOI](https://doi.org/10.1007/s10506-023-09348-9)
+
 ## 🧠 Skills
 
 - **Programming:** Python, R, NodeJS
@@ -47,14 +53,15 @@ Arteh's platform is also undergoing substantial improvements to make it more int
 🔍 **I'm open to collaborations** involving NLP and Machine Learning applications to the legal sector.
 Feel free to reach out if you have an interesting project or idea!
 
-🙋‍♂️ **Ask me about anything**. I'm always happy to help. Don't hesitate to contact me if you need guidance or advice or want to exchange ideas.
+🙋‍♂️ **Got questions? Ask away!** Seriously, anything. Whether you're in need of advice, guidance, or simply want to chat about the latest in AI, I'm your guy. I'm always happy to lend an ear or a helping hand!
 
 ---
 
-📫 **How to reach me:**
+📫 **How to find me:**
 
 - [LinkedIn](https://www.linkedin.com/in/hugo-mentzingen/)
 - [Email](mailto:hugosaisse@gmail.com)
+- [Google Scholar](https://scholar.google.com.br/citations?user=fxuorg0AAAAJ)
 
 ---
 
