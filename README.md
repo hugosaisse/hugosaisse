@@ -1,6 +1,6 @@
 ## Hi there, I'm Hugo Mentzingen (a.k.a. Hugo Silva) 👋
 
-### 🌱 I'm an Engineer, Data Scientist, AI Researcher, and Startup Co-Founder!
+### 🌱 I'm an Engineer, Data Scientist, AI Researcher, CTO and Startup Co-Founder!
 
 ---
 
