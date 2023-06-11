@@ -40,19 +40,14 @@ Arteh's platform is also undergoing substantial improvements to make it more int
 
 - Mentzingen, H., Antonio, N. & Lobo, V. (2023). Joining metadata and textual features to advise administrative courts decisions: a cascading classifier approach. Artif Intell Law. [DOI](https://doi.org/10.1007/s10506-023-09348-9)
 
-<style>
-table.center {
-  margin-left: auto; 
-  margin-right: auto;
-}
-</style>
-
-<table class="center">
+<center>
+<table>
   <tr>
     <td><a href="https://www.scimagojr.com/journalsearch.php?q=25674&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" width="150" src="https://www.scimagojr.com/journal_img.php?id=25674" alt="SCImago Journal &amp; Country Rank"  /></a></td>
     <td><a href="https://www.scimagojr.com/journalsearch.php?q=13880&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" width="150" src="https://www.scimagojr.com/journal_img.php?id=13880" alt="SCImago Journal &amp; Country Rank"  /></a></td>
   </tr>
 </table>
+</center>
 
 ## 🧠 Skills
 
