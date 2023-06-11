@@ -40,6 +40,8 @@ Arteh's platform is also undergoing substantial improvements to make it more int
 
 - Mentzingen, H., Antonio, N. & Lobo, V. (2023). Joining metadata and textual features to advise administrative courts decisions: a cascading classifier approach. Artif Intell Law. [DOI](https://doi.org/10.1007/s10506-023-09348-9)
 
+<a href="https://www.scimagojr.com/journalsearch.php?q=13880&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=13880" alt="SCImago Journal &amp; Country Rank"  /></a>
+
 ## 🧠 Skills
 
 - **Programming:** Python, R, NodeJS
@@ -53,7 +55,7 @@ Arteh's platform is also undergoing substantial improvements to make it more int
 🔍 **I'm open to collaborations** involving NLP and Machine Learning applications to the legal sector.
 Feel free to reach out if you have an interesting project or idea!
 
-🙋‍♂️ **Got questions? Ask away!** Seriously, anything. Whether you're in need of advice, guidance, or simply want to chat about the latest in AI, I'm your guy. I'm always happy to lend an ear or a helping hand!
+🙋‍♂️ **Got questions? Ask away!** Seriously, anything. Whether you're in need of advice, guidance, or simply want to chat about the latest in AI, send me an e-mail. I'm always happy to lend an ear or a helping hand!
 
 ---
 
