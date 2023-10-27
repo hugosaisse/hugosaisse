@@ -38,13 +38,16 @@ Arteh's platform is also undergoing substantial improvements to make it more int
 
 - Silva, H., António, N., Bacao, F. (2022). A Rapid Semi-automated Literature Review on Legal Precedents Retrieval. In: Marreiros, G., Martins, B., Paiva, A., Ribeiro, B., Sardinha, A. (eds) Progress in Artificial Intelligence. EPIA 2022. Lecture Notes in Computer Science(), vol 13566. Springer, Cham. [DOI](https://doi.org/10.1007/978-3-031-16474-3_5)
 
-- Mentzingen, H., Antonio, N. & Lobo, V. (2023). Joining metadata and textual features to advise administrative courts decisions: a cascading classifier approach. Artif Intell Law. [DOI](https://doi.org/10.1007/s10506-023-09348-9)
+- Mentzingen, H., Antonio, N. & Lobo, V. (2023). Joining metadata and textual features to advise administrative courts decisions: a cascading classifier approach. Artificial Intelligence and Law. [DOI](https://doi.org/10.1007/s10506-023-09348-9)
+
+- Mentzingen H., António, N., Bacao, F. (2023). Automation of Legal Precedents Retrieval: Findings from a Literature Review. International Journal of Intelligent Systems, vol. 2023, Article ID 6660983, 22 pages, 2023. [DOI](https://doi.org/10.1155/2023/6660983)
 
 <div align="center">
 <table>
   <tr>
     <td><a href="https://www.scimagojr.com/journalsearch.php?q=25674&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" width="150" src="https://www.scimagojr.com/journal_img.php?id=25674" alt="SCImago Journal &amp; Country Rank"  /></a></td>
     <td><a href="https://www.scimagojr.com/journalsearch.php?q=13880&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" width="150" src="https://www.scimagojr.com/journal_img.php?id=13880" alt="SCImago Journal &amp; Country Rank"  /></a></td>
+    <td><a href="https://www.scimagojr.com/journalsearch.php?q=24305&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=24305" alt="SCImago Journal &amp; Country Rank"  /></a></td>
   </tr>
 </table>
 </div>
