@@ -27,9 +27,9 @@ I use AI to identify legal precedents and put them in context.
 
 In my current role, I lead the implementation of the Policy Registration System in the Brazilian insurance market.
 This novel system is set to revolutionize the industry by keeping records of all insurance transactions in Brazil,
-already having recorded billions of unique events.
+which already has recorded billions of unique events.
 
-I'm writing a paper on the use of named entity recognition (NER),
+I'm investigating the use of named entity recognition (NER),
 part-of-speech (PoS) tagging, and LLMs to summarize court decisions and compute similarity.
 
 Arteh's platform is also undergoing substantial improvements to make it more intuitive and user-friendly.
