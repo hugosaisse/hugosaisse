@@ -1,94 +1,93 @@
 ## Hi there, I'm Hugo Mentzingen (a.k.a. Hugo Silva) 👋
 
-### 🌱 I'm an Engineer, Data Scientist, AI Researcher, CTO and Startup Co-Founder!
+### 🌱 Engineer · Data Scientist · AI/GenAI Researcher · CTO · Startup Co-Founder · Lecturer · Ph.D. Candidate
 
 ---
 
-With over 15 years of rich experience in IT management and software engineering,
-I've journeyed through multiple domains, gaining significant expertise as I went.
-I pride myself on being the youngest and longest-lasting CTO of the Brazilian Insurance Supervisor (2014-2019),
-managing to blend technology and leadership adeptly.
+I build and operationalize intelligent systems at the intersection of **NLP, legal practice, regulation, finance, and climate-tech**.  
+Over a decade of experience turning AI into production value—leading strategic engineering organizations, founding startups, and publishing in top-tier venues.  
 
-In 2019, I took a leap towards my passion for data science and artificial intelligence,
-pursuing a Master's degree at Nova IMS.
-The same year, I co-founded Arteh, a climate-tech startup based in Australia.
-Our mission is to help businesses track their carbon emissions, simulate emission reduction scenarios,
-and set science-based emission reduction targets.
+Currently, I’m driving GenAI adoption in financial services while researching language models for legal precedent retrieval and explanation.
 
-Between 2021 and 2022, I learned as an adjunct lecturer at Nova IMS for the courses Data Science for Marketing,
-Business Cases with Data Science, and Data Mining Descriptive Methods.
+## 🔭 Current Focus
 
-While embarking on these endeavors, I'm also engaged in a Ph.D. Program at Nova IMS,
-primarily researching natural language processing (NLP), Machine Learning,
-and Large Language Models (LLMs) applied to the legal sector.
-I use AI to identify legal precedents and put them in context. 
+### Lead Specialist, Deloitte Portugal (Mar 2024 – Today)  
+I architect and lead GenAI & ML solutions for tier-1 banks across Portugal and the Netherlands.  
+Key themes: LLMs (prompt engineering, RAG, multimodal), AI Agents, document intelligence, virtual assistants, operational risk reduction, and knowledge automation.  
+Featured outcomes include large-scale conversational assistants, automated document generation/classification, business process assurance, and contract data extraction.
 
-## 🔭 Current Projects
+### Ph.D. Candidate & Researcher, Nova IMS  
+Researching **NLP, Machine Learning, and GenAI** applied to legal practice—especially automated retrieval, summarization, and similarity of legal precedents.  
+Developing pipelines combining textual and metadata signals to surface and contextualize decisions for administrative courts.
 
-In my current role, I lead the implementation of the Policy Registration System in the Brazilian insurance market.
-This novel system is set to revolutionize the industry by keeping records of all insurance transactions in Brazil,
-which already has recorded billions of unique events.
+### Adjunct Lecturer, Nova IMS (Sep 2021–Jul 2022; Feb 2024–Today)  
+Delivered practical classes for:  
+- Business Cases with Data Science  
+- Data Science for Marketing  
+- Data Mining Descriptive Methods  
 
-I'm investigating the use of named entity recognition (NER),
-part-of-speech (PoS) tagging, and LLMs to summarize court decisions and compute similarity.
+## 🚀 Recent / Ongoing Projects
 
-Arteh's platform is also undergoing substantial improvements to make it more intuitive and user-friendly.
+- Designing and deploying **GenAI knowledge systems and virtual assistants** for banking clients, reducing support load and improving decision insights.  
+- Researching and prototyping **legal decision summarization and precedent similarity** using NER, PoS tagging, embeddings, and LLMs.  
+- Continuously evolving Arteh’s climate-risk platform (legacy work) and integrating learnings into explainable, scalable SaaS architectures.
 
-## 📚 Published Papers
+## 📚 Selected Publications (most recent first)
 
-- Silva, H., António, N., Bacao, F. (2022). A Rapid Semi-automated Literature Review on Legal Precedents Retrieval. In: Marreiros, G., Martins, B., Paiva, A., Ribeiro, B., Sardinha, A. (eds) Progress in Artificial Intelligence. EPIA 2022. Lecture Notes in Computer Science(), vol 13566. Springer, Cham. [DOI](https://doi.org/10.1007/978-3-031-16474-3_5)
-
-- Mentzingen, H., Antonio, N. & Lobo, V. (2023). Joining metadata and textual features to advise administrative courts decisions: a cascading classifier approach. Artificial Intelligence and Law. [DOI](https://doi.org/10.1007/s10506-023-09348-9)
-
-- Mentzingen H., António, N., Bacao, F. (2023). Automation of Legal Precedents Retrieval: Findings from a Literature Review. International Journal of Intelligent Systems, vol. 2023, Article ID 6660983, 22 pages, 2023. [DOI](https://doi.org/10.1155/2023/6660983)
+- Silva, H., António, N., & Bacao, F. (2025). *Unveiling legal complexity: a systematic review on the visual analytics of legal corpora*. International Review of Law, Computers & Technology. https://doi.org/10.1080/13600869.2025.2497630  
+- Silva, H., António, N., & Bacao, F. (2025). *Effectiveness in Retrieving Legal Precedents: Exploring Text Summarization and Cutting-Edge Language Models Toward a Cost-Efficient Approach*. Artificial Intelligence and Law. https://link.springer.com/article/10.1007/s10506-025-09440-2  
+- Silva, H., Cunha, M., António, N., & Bacao, F. (2024). *Using textual similarity to identify legal precedents: appraising machine learning models for administrative courts*. International Journal of Information Management Data Insights. https://doi.org/10.1016/j.jjimei.2024.100247  
+- Mentzingen, H., António, N. & Lobo, V. (2023). *Joining metadata and textual features to advise administrative courts decisions: a cascading classifier approach*. Artificial Intelligence and Law. https://doi.org/10.1007/s10506-023-09348-9  
+- Mentzingen, H., António, N., & Bacao, F. (2023). *Automation of legal precedents retrieval: findings from a rapid literature review*. International Journal of Intelligent Systems. https://doi.org/10.1155/2023/6660983  
+- Silva, H., António, N., & Bacao, F. (2022). *A Rapid Semi-automated Literature Review on Legal Precedents Retrieval*. In *Progress in Artificial Intelligence. EPIA 2022.* Lecture Notes in Computer Science, vol 13566. Springer, Cham. https://doi.org/10.1007/978-3-031-16474-3_5  
 
 <div align="center">
-<table>
-  <tr>
-    <td><a href="https://www.scimagojr.com/journalsearch.php?q=25674&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" width="150" src="https://www.scimagojr.com/journal_img.php?id=25674" alt="SCImago Journal &amp; Country Rank"  /></a></td>
-    <td><a href="https://www.scimagojr.com/journalsearch.php?q=13880&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" width="150" src="https://www.scimagojr.com/journal_img.php?id=13880" alt="SCImago Journal &amp; Country Rank"  /></a></td>
-    <td><a href="https://www.scimagojr.com/journalsearch.php?q=24305&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" width="150" src="https://www.scimagojr.com/journal_img.php?id=24305" alt="SCImago Journal &amp; Country Rank"  /></a></td>
-  </tr>
-</table>
+  <table>
+    <tr>
+      <td><a title="SCImago Journal & Country Rank"><img border="0" width="150" src="https://www.scimagojr.com/journal_img.php?id=25674" alt="SCImago Journal" /></a></td>
+      <td><a title="SCImago Journal & Country Rank"><img border="0" width="150" src="https://www.scimagojr.com/journal_img.php?id=13880" alt="SCImago Journal" /></a></td>
+      <td><a title="SCImago Journal & Country Rank"><img border="0" width="150" src="https://www.scimagojr.com/journal_img.php?id=24305" alt="SCImago Journal" /></a></td>
+    </tr>
+  </table>
 </div>
 
-## 🧠 Skills
+## 🧠 Skills & Tech Stack
 
-- **Programming:** Python, R, NodeJS
-- **Databases:** MongoDB, MSSQL, MySQL, PostgreSQL
-- **Cloud:** AWS (many services, currently learning AWS SageMaker), Google Cloud Platform
-- **Big Data:** Hadoop
-- **Machine Learning Frameworks:** TensorFlow, PyTorch, HuggingFace Transformers
-- **Data Analysis Tools:** Pandas, Plotly, Dash, Scikit-Learn
-- **Others:** Git, Linux
+**Machine Learning / GenAI:** LLMs, Transformers, Hugging Face, OpenAI APIs, LangChain, LangGraph, AutoGen, Scikit-Learn, PyTorch, TensorFlow, NLTK, textual similarity, prompt engineering, RAG architectures, AI Agents.
 
-🔍 **I'm open to collaborations** involving NLP and Machine Learning applications to the legal sector.
-Feel free to reach out if you have an interesting project or idea!
+**Programming & Data:** Python, R, SQL, PySpark, Neo4j, MongoDB, PostgreSQL, MySQL, data pipelines, metadata fusion.
 
-🙋‍♂️ **Got questions? Ask away!** Seriously, anything. Whether you're in need of advice, guidance, or simply want to chat about the latest in AI, send me an e-mail. I'm always happy to lend an ear or a helping hand!
+**Cloud & Infrastructure:** AWS (Lambda, SageMaker, Bedrock, broader ecosystem), Google Cloud Platform (DevOps & MLOps), Azure.
+
+**Big Data & Analytics:** Hadoop, data visualization, explainability, embedding search, business intelligence.
+
+**Engineering / Ops / Tools:** Git, Linux, production deployment, knowledge bases, document intelligence, virtual assistants, model monitoring.
+
+**Research & Teaching:** Experimental design, reproducibility, curriculum delivery for applied data science.
+
+**Languages:** Portuguese (native), English (fluent), Spanish (basic working proficiency)
+
+## 💼 Career Highlights
+
+- **Lead Specialist at Deloitte Portugal:** Driving enterprise GenAI solutions for financial services, yielding measurable operational improvements (e.g., call volume reduction, efficiency gains, risk mitigation).  
+- **Former CTO & Data Science Lead (SUSEP, Brazil):** Youngest and longest-serving CTO; led cloud migrations, regulatory sandbox, large-scale insurance transaction recording systems, and predictive/legal decision modeling.  
+- **Founder / CTO at Arteh (climate-tech):** Built award-winning AWS-native platform for carbon emissions tracking and scenario simulation; selected for government acceleration, delivered actionable climate risk analytics.  
+- **Academic & Research:** Ph.D. candidate publishing in top-tier journals; adjunct lecturer bridging theory and practice in data science and decision support.
+
+## 🤝 Open to Collaboration
+
+I'm especially interested in partnerships and projects involving **NLP, legal AI, explainable ML, regulatory automation, and GenAI deployments in high-stakes domains**. If you have a problem that involves making complex text/data actionable or explainable, let's talk.
+
+## 📫 How to find me
+
+- [LinkedIn](https://www.linkedin.com/in/hugo-mentzingen/)  
+- [Google Scholar](https://scholar.google.com.br/citations?user=fxuorg0AAAAJ)  
+- Email: hugosaisse@gmail.com  
 
 ---
 
-📫 **How to find me:**
-
-- [LinkedIn](https://www.linkedin.com/in/hugo-mentzingen/)
-- [Email](mailto:hugosaisse@gmail.com)
-- [Google Scholar](https://scholar.google.com.br/citations?user=fxuorg0AAAAJ)
-
----
-
+**Fun fact:** I translate research into real-world systems—whether for courts, banks, or climate accountability.
 
 <!--
-**hugosaisse/hugosaisse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**hugosaisse/hugosaisse** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
 -->
