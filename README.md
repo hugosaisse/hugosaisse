@@ -45,9 +45,10 @@ Delivered practical classes for:
   <table>
     <tr>
       <td><a title="SCImago Journal & Country Rank"><img border="0" width="150" src="https://www.scimagojr.com/journal_img.php?id=18100156704" alt="SCImago Journal" /></a></td>
-      <td><a title="SCImago Journal & Country Rank"><img border="0" width="150" src="https://www.scimagojr.com/journal_img.php?id=25674" alt="SCImago Journal" /></a></td>
-      <td><a title="SCImago Journal & Country Rank"><img border="0" width="150" src="https://www.scimagojr.com/journal_img.php?id=13880" alt="SCImago Journal" /></a></td>
+      <td><a title="SCImago Journal & Country Rank"><img border="0" width="150" src="https://www.scimagojr.com/journal_img.php?id=13880" alt="SCImago Journal" /></a></td> 
+      <td><a title="SCImago Journal & Country Rank"><img border="0" width="150" src="https://www.scimagojr.com/journal_img.php?id=21101081610" alt="SCImago Journal" /></a></td>
       <td><a title="SCImago Journal & Country Rank"><img border="0" width="150" src="https://www.scimagojr.com/journal_img.php?id=24305" alt="SCImago Journal" /></a></td>
+      <td><a title="SCImago Journal & Country Rank"><img border="0" width="150" src="https://www.scimagojr.com/journal_img.php?id=25674" alt="SCImago Journal" /></a></td>
     </tr>
   </table>
 </div>
