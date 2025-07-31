@@ -4,7 +4,7 @@
 
 ---
 
-I build and operationalize intelligent systems at the intersection of **NLP, legal practice, regulation, finance, and climate-tech**.  
+I build and operationalize intelligent systems at the intersection of **Generative AI, Machine Learning, legal practice, regulation, finance, and climate-tech**.  
 Over a decade of experience turning AI into production value—leading strategic engineering organizations, founding startups, and publishing in top-tier venues.  
 
 Currently, I’m driving GenAI adoption in financial services while researching language models for legal precedent retrieval and explanation.
@@ -20,7 +20,7 @@ Featured outcomes include large-scale conversational assistants, automated docum
 Researching **NLP, Machine Learning, and GenAI** applied to legal practice—especially automated retrieval, summarization, and similarity of legal precedents.  
 Developing pipelines combining textual and metadata signals to surface and contextualize decisions for administrative courts.
 
-### Adjunct Lecturer, Nova IMS (Sep 2021–Jul 2022; Feb 2024–Today)  
+### Adjunct Lecturer, Nova IMS (Sep 2021–Jul 2022)  
 Delivered practical classes for:  
 - Business Cases with Data Science  
 - Data Science for Marketing  
